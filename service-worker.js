@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/stanley-yu.com/precache-manifest.fdb1274ba2f4de6a4a5bcff771e16cbe.js"
+  "/stanley-yu.com/precache-manifest.8a2abdf2931ef82b345d1c72bbb54060.js"
 );
 
 workbox.clientsClaim();

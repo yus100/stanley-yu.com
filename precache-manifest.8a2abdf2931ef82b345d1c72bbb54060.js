@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7aea86774d1000819429",
+    "revision": "09e1f525e5e625d54a29",
     "url": "/stanley-yu.com/static/css/main.d336eabe.chunk.css"
   },
   {
-    "revision": "7aea86774d1000819429",
-    "url": "/stanley-yu.com/static/js/main.7aea8677.chunk.js"
+    "revision": "09e1f525e5e625d54a29",
+    "url": "/stanley-yu.com/static/js/main.09e1f525.chunk.js"
   },
   {
     "revision": "143a9a6282013744e9c2",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/stanley-yu.com/static/js/runtime~main.3d0c0b87.js"
   },
   {
-    "revision": "bfbbf0ae0817a8240451c9cd3a62bad2",
+    "revision": "8ca65a564f4cdac34fd26cbd5e6a5ac1",
     "url": "/stanley-yu.com/index.html"
   }
 ];
