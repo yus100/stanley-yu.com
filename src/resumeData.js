@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Student at the M&T program at Penn",
     "linkedinId":"stanley-yu",
     "skypeid": "Your skypeid",
-    "roleDescription": " I'm interested in ML research, startups, quant finance and full-stack development",
+    "roleDescription": " I'm interested in AI startups, full-stack development and quant finance.",
     "socialLinks":[
         {
           "name":"linkedin",
